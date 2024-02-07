@@ -2,4 +2,4 @@
 data/
 ## 모델도 너무 크니까 저장 x
 model/
-model.pt
+model_storage/
